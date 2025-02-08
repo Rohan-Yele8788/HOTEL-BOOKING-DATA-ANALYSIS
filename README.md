@@ -69,7 +69,7 @@ Weekends & holidays have higher room prices compared to weekdays.
   City hotels overbook by 5-10% to compensate for cancellations.
               Resort hotels face fewer overbooking issues due to longer lead times.
 
-# Repository Structure
+   # Repository Structure
 
        * Data : <a href "https://github.com/Rohan-Yele8788/HOTEL-BOOKING-DATA-ANALYSIS/blob/main/Hotel%20Bookings.csv"</a>
        * Dashboard : "https://github.com/Rohan-Yele8788/HOTEL-BOOKING-DATA-ANALYSIS/blob/main/Hotel%20Bookings.pbix"
