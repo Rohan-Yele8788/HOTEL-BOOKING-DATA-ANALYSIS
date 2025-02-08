@@ -71,7 +71,7 @@ High Cancellation Rate (Average 30-40%)
 
 # Repository Structure
 
-   * Data : <a href "https://github.com/Rohan-Yele8788/HOTEL-BOOKING-DATA-ANALYSIS/blob/main/Hotel%20Bookings.csv"</a>
+   * Data :  "https://github.com/Rohan-Yele8788/HOTEL-BOOKING-DATA-ANALYSIS/blob/main/Hotel%20Bookings.csv"</a>
    * Dashboard : "https://github.com/Rohan-Yele8788/HOTEL-BOOKING-DATA-ANALYSIS/blob/main/Hotel%20Bookings.pbix"
       * ### Snapshot of Dashboard :  ![Hotel Bookings Image](https://github.com/user-attachments/assets/0222d8f0-f50f-4e0b-bcdc-c57bc2f97b39)
 
