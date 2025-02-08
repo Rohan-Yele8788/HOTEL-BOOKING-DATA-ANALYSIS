@@ -73,7 +73,7 @@ Weekends & holidays have higher room prices compared to weekdays.
 
        * Data :  
        * Dashboard : 
-     ### Snapshot of Dashboard :  
+       * Snapshot of Dashboard :  
 
 
 # Conclusion 
