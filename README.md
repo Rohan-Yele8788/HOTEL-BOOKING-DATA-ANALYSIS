@@ -65,6 +65,10 @@ Weekends & holidays have higher room prices compared to weekdays.
                Online Travel Agents (OTA) contribute to 50-60% of bookings but also have the highest      cancellation rates.
   Direct bookings (through hotel websites) have lower cancellation rates and higher customer loyalty.  Corporate and group bookings provide consistent revenue.
 
+  ### 7.	Room Allocation & Overbooking Insights
+  City hotels overbook by 5-10% to compensate for cancellations.
+              Resort hotels face fewer overbooking issues due to longer lead times.
+
 
    # Repository Structure
 
