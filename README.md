@@ -13,10 +13,10 @@ The goal of this project is to analyze hotel booking data to identify key trends
    6.	Which booking channels bring the most revenue and the highest cancellation rates?
 
  # Tools Used
-  ### 1.	MS Excel 
+ ### 1.	MS Excel 
           For the Data Cleaning, null Handlings and Data Analysis.
 
-  ### 2.	MS Power BI 
+ ### 2.	MS Power BI 
               For the Data Visualization, for preparing interactive Dashboard followed by Forecasting.
 
 # Features and KPI’S
