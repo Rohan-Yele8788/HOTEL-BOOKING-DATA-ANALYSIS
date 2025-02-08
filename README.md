@@ -69,19 +69,18 @@ Weekends & holidays have higher room prices compared to weekdays.
   City hotels overbook by 5-10% to compensate for cancellations.
               Resort hotels face fewer overbooking issues due to longer lead times.
 
+# Repository Structure
 
-   # Repository Structure
-
-       * Data : <a href "https://github.com/Rohan-Yele8788/HOTEL-BOOKING-DATA-ANALYSIS/blob/main/Hotel%20Bookings.csv"</a>
-       * Dashboard : "https://github.com/Rohan-Yele8788/HOTEL-BOOKING-DATA-ANALYSIS/blob/main/Hotel%20Bookings.pbix"
+   * Data : <a href "https://github.com/Rohan-Yele8788/HOTEL-BOOKING-DATA-ANALYSIS/blob/main/Hotel%20Bookings.csv"</a>
+   * Dashboard : "https://github.com/Rohan-Yele8788/HOTEL-BOOKING-DATA-ANALYSIS/blob/main/Hotel%20Bookings.pbix"
        ### Snapshot of Dashboard :  ![Hotel Bookings Image](https://github.com/user-attachments/assets/0222d8f0-f50f-4e0b-bcdc-c57bc2f97b39)
-
 
 
 # Conclusion 
 
 The Hotel Booking Data Analysis Project provides valuable insights into customer behavior, booking patterns, revenue optimization, and cancellation trends. By analyzing the data, we identified key areas for improvement in hotel operations and revenue management.
 
+ 
 
 
 
