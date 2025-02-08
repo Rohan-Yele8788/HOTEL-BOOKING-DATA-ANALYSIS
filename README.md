@@ -14,10 +14,10 @@ The goal of this project is to analyze hotel booking data to identify key trends
 
  # Tools Used
  ### 1.	MS Excel 
-          For the Data Cleaning, null Handlings and Data Analysis.
+For the Data Cleaning, null Handlings and Data Analysis.
 
  ### 2.	MS Power BI 
-              For the Data Visualization, for preparing interactive Dashboard followed by Forecasting.
+ For the Data Visualization, for preparing interactive Dashboard followed by Forecasting.
 
 # Features and KPI’S
 
@@ -50,24 +50,24 @@ High Cancellation Rate (Average 30-40%)
 
 ### 4.	Revenue Insights & ADR (Average Daily Rate) Analysis
 
-               Resort hotels generate higher revenue per booking but have a lower volume.
-               City hotels rely on high booking frequency for steady revenue.
-               Average Daily Rate (ADR) Trends:
-Peak seasons see a 20-40% increase in ADR.
-Weekends & holidays have higher room prices compared to weekdays.
+ Resort hotels generate higher revenue per booking but have a lower volume.
+ City hotels rely on high booking frequency for steady revenue.
+ Average Daily Rate (ADR) Trends:
+ Peak seasons see a 20-40% increase in ADR.
+ Weekends & holidays have higher room prices compared to weekdays.
 
 ### 5.	Customer Segmentation & Preferences
 
-               Domestic travelers make up 60-70% of total bookings.
-                International travelers prefer resort hotels, staying longer than domestic travelers.
-                European and American travelers are key international customer groups
+ Domestic travelers make up 60-70% of total bookings.
+ International travelers prefer resort hotels, staying longer than domestic travelers.
+ European and American travelers are key international customer groups
 ### 6.	Market Performance & Channel Analysis
-               Online Travel Agents (OTA) contribute to 50-60% of bookings but also have the highest      cancellation rates.
-  Direct bookings (through hotel websites) have lower cancellation rates and higher customer loyalty.  Corporate and group bookings provide consistent revenue.
+ Online Travel Agents (OTA) contribute to 50-60% of bookings but also have the highest      cancellation rates.
+ Direct bookings (through hotel websites) have lower cancellation rates and higher customer loyalty.  Corporate and group bookings provide consistent revenue.
 
   ### 7.	Room Allocation & Overbooking Insights
   City hotels overbook by 5-10% to compensate for cancellations.
-              Resort hotels face fewer overbooking issues due to longer lead times.
+  Resort hotels face fewer overbooking issues due to longer lead times.
 
 # Repository Structure
 
